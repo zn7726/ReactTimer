@@ -24,13 +24,6 @@ module.exports = {
     alias: {
       Main: 'app/components/Main.jsx',
       Navigation: 'app/components/Navigation.jsx',
-      Weather: 'app/components/Weather.jsx',
-      WeatherForm: 'app/components/WeatherForm.jsx',
-      WeatherMessage: 'app/components/WeatherMessage.jsx',
-      About: 'app/components/About.jsx',
-      Examples: 'app/components/Examples.jsx',
-      OpenWeatherMap: 'app/api/openWeatherMap.jsx',
-      ErrorModal: 'app/components/ErrorModal.jsx',
 
       Timer: 'app/components/Timer.jsx',
       Countdown: 'app/components/Countdown.jsx',

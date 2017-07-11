@@ -6,14 +6,10 @@ var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 // EFFECTIVLY EQUAL => var Route = require('react-router').Route
 
 var Main = require('Main');
-var Weather = require('Weather');
-var About = require('About');
-var Examples = require('Examples');
-
 var Countdown = require('Countdown');
 var Timer = require('Timer');
 // load foundation
-require('style!css!foundation-sites/dist/css/foundation.min.css');
+require('style!css!foundation-sites/dist/css/foundation.min.css')
 $(document).foundation();
 
 // App css
